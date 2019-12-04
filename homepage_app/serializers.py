@@ -3,7 +3,7 @@ from rest_framework import serializers
 from homepage_app.models import *
 
 
-class HomepageSerializer(serializers.Serializer):
+class HomePageSerializer(serializers.ModelSerializer):
     Photos = serializers.PrimaryKeyRelatedField(many=True, source='job_set', queryset=Photo.objects.all())
 
     class Meta:
