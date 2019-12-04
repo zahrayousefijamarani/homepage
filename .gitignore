@@ -1,0 +1,249 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Python template
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
+#   However, in case of collaboration, if having platform-specific dependencies or dependencies
+#   having no cross-platform support, pipenv may install dependencies that don't work, or not
+#   install all needed dependencies.
+#Pipfile.lock
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+.gitignore
+.idea/vcs.xml
+.idea/workspace.xml
+homepage/
+manage.py
+templates/
+venv/Include/
+venv/Lib/site-packages/django/__init__.py
+venv/Lib/site-packages/django/__main__.py
+venv/Lib/site-packages/django/__pycache__/
+venv/Lib/site-packages/django/apps/
+venv/Lib/site-packages/django/bin/
+venv/Lib/site-packages/django/conf/
+venv/Lib/site-packages/django/contrib/__init__.py
+venv/Lib/site-packages/django/contrib/__pycache__/
+venv/Lib/site-packages/django/contrib/admin/
+venv/Lib/site-packages/django/contrib/admindocs/__pycache__/
+venv/Lib/site-packages/django/contrib/auth/
+venv/Lib/site-packages/django/contrib/contenttypes/__pycache__/
+venv/Lib/site-packages/django/contrib/contenttypes/management/__pycache__/
+venv/Lib/site-packages/django/contrib/contenttypes/management/commands/__pycache__/
+venv/Lib/site-packages/django/contrib/contenttypes/migrations/__pycache__/
+venv/Lib/site-packages/django/contrib/flatpages/__pycache__/
+venv/Lib/site-packages/django/contrib/flatpages/migrations/__pycache__/
+venv/Lib/site-packages/django/contrib/flatpages/templatetags/__pycache__/
+venv/Lib/site-packages/django/contrib/gis/
+venv/Lib/site-packages/django/contrib/humanize/
+venv/Lib/site-packages/django/contrib/messages/
+venv/Lib/site-packages/django/contrib/postgres/__pycache__/
+venv/Lib/site-packages/django/contrib/postgres/aggregates/__pycache__/
+venv/Lib/site-packages/django/contrib/postgres/fields/__pycache__/
+venv/Lib/site-packages/django/contrib/postgres/forms/__pycache__/
+venv/Lib/site-packages/django/contrib/postgres/functions.py
+venv/Lib/site-packages/django/contrib/postgres/indexes.py
+venv/Lib/site-packages/django/contrib/postgres/lookups.py
+venv/Lib/site-packages/django/contrib/postgres/operations.py
+venv/Lib/site-packages/django/contrib/postgres/search.py
+venv/Lib/site-packages/django/contrib/postgres/serializers.py
+venv/Lib/site-packages/django/contrib/postgres/signals.py
+venv/Lib/site-packages/django/contrib/postgres/utils.py
+venv/Lib/site-packages/django/contrib/postgres/validators.py
+venv/Lib/site-packages/django/contrib/redirects/__pycache__/
+venv/Lib/site-packages/django/contrib/redirects/migrations/__pycache__/
+venv/Lib/site-packages/django/contrib/sessions/__pycache__/
+venv/Lib/site-packages/django/contrib/sessions/backends/__pycache__/
+venv/Lib/site-packages/django/contrib/sessions/management/commands/__pycache__/
+venv/Lib/site-packages/django/contrib/sessions/migrations/__pycache__/
+venv/Lib/site-packages/django/contrib/sitemaps/__pycache__/
+venv/Lib/site-packages/django/contrib/sitemaps/management/commands/__pycache__/
+venv/Lib/site-packages/django/contrib/sites/
+venv/Lib/site-packages/django/contrib/staticfiles/__pycache__/
+venv/Lib/site-packages/django/contrib/staticfiles/management/commands/__pycache__/
+venv/Lib/site-packages/django/contrib/staticfiles/templatetags/__pycache__/
+venv/Lib/site-packages/django/contrib/syndication/__pycache__/
+venv/Lib/site-packages/django/core/
+venv/Lib/site-packages/django/db/
+venv/Lib/site-packages/django/dispatch/__pycache__/
+venv/Lib/site-packages/django/forms/
+venv/Lib/site-packages/django/http/
+venv/Lib/site-packages/django/middleware/__pycache__/
+venv/Lib/site-packages/django/shortcuts.py
+venv/Lib/site-packages/django/template/__pycache__/
+venv/Lib/site-packages/django/templa
+te/backends/__pycache__/
+venv/Lib/site-packages/django/template/loaders/__pycache__/
+venv/Lib/site-packages/django/templatetags/__pycache__/
+venv/Lib/site-packages/django/test/
+venv/Lib/site-packages/django/urls/
+venv/Lib/site-packages/django/utils/
+venv/Lib/site-packages/django/views/
+venv/Lib/site-packages/djangorestframework-3.10.3.dist-info/
+venv/Lib/site-packages/easy-install.pth
+venv/Lib/site-packages/pip-10.0.1-py3.7.egg/EGG-INFO/
+venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/
+venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/cachecontrol/
+venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/colorama/
+venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/distlib/_backport/__init__.py
+venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/distlib/_backport/misc.py
+venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/distlib/_backport/shutil.py
+venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/distlib/_backport/sysconfig.cfg
+venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/distlib/_backport/sysconfig.py
+venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/
+venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/ipaddress.py
+venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/lockfile/
+venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/msgpack/
+venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/packaging/
+venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/pkg_resources/
+venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/progress/
+venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/requests/
+venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/urllib3/
+venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/webencodings/
+venv/Lib/site-packages/pytz/
+venv/Lib/site-packages/rest_framework/__pycache__/
+venv/Lib/site-packages/rest_framework/authtoken/__pycache__/
+venv/Lib/site-packages/rest_framework/authtoken/management/__pycache__/
+venv/Lib/site-packages/rest_framework/authtoken/management/commands/__pycache__/
+venv/Lib/site-packages/rest_framework/authtoken/migrations/__pycache__/
+venv/Lib/site-packages/rest_framework/management/
+venv/Lib/site-packages/rest_framework/schemas/__pycache__/
+venv/Lib/site-packages/rest_framework/templates/rest_framework/horizontal/
+venv/Lib/site-packages/rest_framework/templates/rest_framework/pagination/
+venv/Lib/site-packages/rest_framework/templates/rest_framework/vertical/
+venv/Lib/site-packages/rest_framework/templatetags/
+venv/Lib/site-packages/rest_framework/utils/__pycache__/
+venv/Lib/site-packages/setuptools.pth
+venv/Lib/site-packages/sqlparse/__pycache__/
+venv/Lib/site-packages/sqlparse/engine/__pycache__/
+venv/Lib/site-packages/sqlparse/filters/__pycache__/
+venv/Scripts/__pycache__/
+venv/Scripts/django-admin.exe
+venv/Scripts/django-admin.py
+venv/Scripts/easy_install-3.7-script.py
+venv/Scripts/easy_install-3.7.exe
+venv/Scripts/easy_install-script.py
+venv/Scripts/easy_install.exe
+venv/Scripts/pip-script.py
+venv/Scripts/pip.exe
+venv/Scripts/pip3-script.py
+venv/Scripts/pip3.7-script.py
+venv/Scripts/pip3.7.exe
+venv/Scripts/pip3.exe
+venv/Scripts/sqlformat.exe
+venv/pip-selfcheck.json
