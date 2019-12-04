@@ -8,7 +8,7 @@ class HomePageSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Homepage
-        fields = ['title']
+        fields = ['title_en', 'title_fa']
 
 
 class ScreenSerializer(serializers.ModelSerializer):
